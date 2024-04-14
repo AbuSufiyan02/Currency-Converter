@@ -1,5 +1,5 @@
 {
-  "name": "currency-converter",
+  "name": "code_with_abusufiyan_currency_converter",
   "version": "1.0.0",
   "description": "a cli based currency converter",
   "main": "index.js",
